@@ -1,5 +1,5 @@
 `😄` **Pronouns**: He/Him  
-`⚡` **Fun fact**: I using potato laptop
+`⚡` **Fun fact**: I love cat
 
 <!---
 CalvinDeVinson/CalvinDeVinson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
