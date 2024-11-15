@@ -1,5 +1,6 @@
-`😄` **Pronouns**: He/Him  
-`⚡` **Fun fact**: I love cat
+`😄` I love cat.  
+`⚡` Social accounts:  
+- [Modrinth](https://modrinth.com/user/Calvinson)  
 
 <!---
 CalvinDeVinson/CalvinDeVinson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
