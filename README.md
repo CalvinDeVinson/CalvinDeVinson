@@ -1,5 +1,5 @@
 `😄` I love cat.  
-`⚡` Social accounts:  
+`⚡` Other accounts:  
 ・[Modrinth](https://modrinth.com/user/Calvinson)  
 
 <!---
