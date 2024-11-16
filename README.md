@@ -1,4 +1,4 @@
-`😄` I love cat.  
+`😄` I love cat, meow.  
 `⚡` Other accounts:  
 ・[Modrinth](https://modrinth.com/user/Calvinson)  
 
