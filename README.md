@@ -1,5 +1,7 @@
-`😄` I love cat, meow.  
-`⚡` Other accounts:  
+<div align="center">
+
+`🐱` I love cat, meow.  
+`👥` Other accounts:  
 ・[Modrinth](https://modrinth.com/user/Calvinson)  
 
 <!---
