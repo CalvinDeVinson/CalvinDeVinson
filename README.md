@@ -1,1 +1,1 @@
-<img src="https://cdn.7tv.app/emote/01H3TQQ1A80002029XS0J4PNFA/4x.gif" alt="Gif 1" width="50%" height="50%">
+<img src="https://cdn.7tv.app/emote/01H3TQQ1A80002029XS0J4PNFA/4x.gif" alt="Gif 1" width="50%" height="50%"><img src="https://cdn.7tv.app/emote/66d06b5ac3bb781db7c6d56e/4x.gif" alt="Gif 2" width="50%" height="50%">
