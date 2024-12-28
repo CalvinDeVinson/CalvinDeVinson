@@ -1,8 +1,6 @@
 <div align="center">
 
-`🐱` I love cat, meow.  
-`👥` Other accounts:  
-・[Modrinth](https://modrinth.com/user/Calvinson)  
+[![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalvinDeVinson)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 CalvinDeVinson/CalvinDeVinson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
