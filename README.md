@@ -1,4 +1,3 @@
 <div align="center">
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CalvinDeVinson&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Calvin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinDeVinson&layout=compact&theme=buefy&hide_border=true" /></a> |
-| --- | --- |
+<img src="https://github.com/CalvinDeVinson/CalvinDeVinson/blob/main/4x.gif" alt="Gif 1">
